@@ -1,84 +1,93 @@
-# ⚡ Protocol Z — High-Speed Next-Gen VPN (VLESS Reality & Hysteria 2)
+# ⚡ Protocol Z — Скоростной VPN нового поколения (VLESS Reality & Hysteria 2)
 
 <p align="center">
   <img src="https://protocolz.ru/images/protocolz_4pda_banner.jpg" alt="Protocol Z Banner" width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://protocolz.ru/download/ProtocolZ.apk"><img src="https://img.shields.io/badge/Download-ProtocolZ.apk-blue?style=for-the-badge&logo=android&logoColor=white" alt="Download APK" /></a>
-  <a href="https://t.me/ProtocolZbot?start=github_release"><img src="https://img.shields.io/badge/Telegram-@ProtocolZbot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Bot" /></a>
-  <a href="https://protocolz.ru"><img src="https://img.shields.io/badge/Website-protocolz.ru-8b5cf6?style=for-the-badge" alt="Official Website" /></a>
+  <a href="https://protocolz.ru/download/ProtocolZ.apk"><img src="https://img.shields.io/badge/Скачать-ProtocolZ.apk-2563eb?style=for-the-badge&logo=android&logoColor=white" alt="Скачать APK" /></a>
+  <a href="https://t.me/ProtocolZbot?start=github_readme"><img src="https://img.shields.io/badge/Telegram_Бот-@ProtocolZbot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Bot" /></a>
+  <a href="https://protocolz.ru"><img src="https://img.shields.io/badge/Официальный_сайт-protocolz.ru-8b5cf6?style=for-the-badge" alt="Официальный сайт" /></a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Version-1.0.0-emerald?style=flat-square" />
-  <img src="https://img.shields.io/badge/Platform-Android%20%7C%20iOS%20%7C%20Windows%20%7C%20macOS-cyan?style=flat-square" />
-  <img src="https://img.shields.io/badge/Protocols-VLESS%20Reality%20%7C%20Hysteria%202-purple?style=flat-square" />
-  <img src="https://img.shields.io/badge/Port-10%20Gbps%20Uplink-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/Policy-Strict%20No--Logs%20(RAM--only)-red?style=flat-square" />
+  <img src="https://img.shields.io/badge/Версия-1.0.0-emerald?style=flat-square" />
+  <img src="https://img.shields.io/badge/Платформы-Android%20%7C%20iOS%20%7C%20Windows%20%7C%20macOS-cyan?style=flat-square" />
+  <img src="https://img.shields.io/badge/Протоколы-VLESS%20Reality%20%7C%20Hysteria%202-purple?style=flat-square" />
+  <img src="https://img.shields.io/badge/Скорость-до%2010%20Гбит%2Fс-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Политика-Строгий%20No--Logs-red?style=flat-square" />
 </p>
 
 ---
 
-## 🚀 Overview / Описание
+## 🚀 О сервисе Protocol Z
 
-**Protocol Z** is a high-performance, next-generation VPN client designed to bypass aggressive DPI, TSPU throttling, and network censorship while delivering uncompressed 4K video streaming and ultra-low gaming latency.
+**Protocol Z** — это быстрый, надежный и незаметный VPN-сервис на современных протоколах **VLESS Reality** и **Hysteria 2 (UDP/QUIC)**, созданный для комфортного интернета в условиях жестких блокировок DPI и замедлений ТСПУ.
 
-**Protocol Z** — это быстрый VPN нового поколения на протоколах **VLESS Reality** и **Hysteria 2 (QUIC/UDP)** с раздельным туннелированием (Split Tunneling). 
-
-### 🌟 Key Features / Главные преимущества:
-
-* ⚡ **YouTube 4K 60fps without buffering**: Dedicated 10G fiber channels in Germany, Finland, and the Netherlands.
-* 🛡️ **Invisible VLESS Reality TLS Camouflage**: Traffic masquerades as legitimate TLS handshakes to popular websites, making it undetectable to DPI and TSPU filters.
-* 🏦 **Split Tunneling for Banking**: Russian banking apps (Sberbank, T-Bank, VTB, Alfa-Bank, Gosuslugi) bypass the VPN tunnel and connect directly with 0 latency. You never need to turn the VPN off!
-* 🎮 **Ultra-Low Gaming Latency (Hysteria 2 UDP)**: 18–25ms ping with 0% packet loss in **Discord Voice**, **Brawl Stars**, **Roblox**, **Valorant**, **CS 2**, and **Apex Legends**.
-* 🧠 **Unrestricted AI Access**: 100% clean residential IPs for **ChatGPT 4o**, **Claude 3.7 / 3.5 Sonnet**, **Midjourney**, and **Google Gemini** without 403 Access Denied errors.
-* 🔋 **Ultra-Lightweight & Battery-Friendly**: Minimal CPU usage, no background drain, zero ads, and zero analytical trackers.
-* 🔒 **RAM-Only Architecture**: Zero disk writes, strict No-Logs verification.
+Трафик маскируется под обычные защищенные соединения (TLS 1.3), благодаря чему видео на YouTube загружается в **4K 60fps**, а пинг в играх и голосовых каналах Discord остается минимальным.
 
 ---
 
-## 📥 Downloads / Скачать
+## 🌟 Ключевые преимущества
 
-| Platform | Download Link | Quick Setup Guide |
+* 📺 **YouTube в 4K без замедлений**: Прямые выделенные каналы 10 Гбит/с в Германии, Нидерландах, Финляндии и Франции. Видео открывается мгновенно в максимальном качестве.
+* 🛡️ **Невидимая маскировка VLESS Reality**: Провайдеры и фильтры ТСПУ не видят VPN-трафик — он неотличим от обычного посещения сайтов Microsoft, Apple или Cloudflare.
+* 🏦 **Раздельное туннелирование (Split Tunneling)**: Российские банки (Сбербанк, Т-Банк, Альфа, ВТБ, Госуслуги) работают напрямую без задержек и капчей. VPN не нужно выключать!
+* 🎮 **Минимальный пинг для игр (Hysteria 2 UDP)**: Стабильные 18–25 мс без потери пакетов в **Discord Voice**, **Brawl Stars**, **Roblox**, **CS 2**, **Dota 2** и **Apex Legends**.
+* 🧠 **Доступ ко всем нейросетям**: Чистые IP-адреса для **ChatGPT 4o / o1**, **Claude 3.7 Sonnet**, **Midjourney** и **Google Gemini** без ошибок 403 / Access Denied.
+* 🔋 **Экономия батареи**: Приложение оптимизировано и расходует менее 1% аккумулятора в день при непрерывной работе в фоне.
+* 🔒 **Конфиденциальность (No-Logs)**: Серверы работают без сохранения логов подключений и истории трафика.
+
+---
+
+## 📥 Скачать приложение и настроить
+
+| Платформа | Ссылка на скачивание | Инструкция |
 |---|---|---|
-| **Android (Official APK)** | 📲 **[Download ProtocolZ.apk](https://protocolz.ru/download/ProtocolZ.apk)** | Sideload APK in 1 click (Android 7.0+) |
-| **iOS (iPhone / iPad)** | 🍏 **[Download on App Store (INCY / Streisand)](https://protocolz.ru/vpn-dlya-iphone)** | 1-Click QR Code / Config Import |
-| **Windows 10 / 11** | 💻 **[Download Windows Client](https://protocolz.ru/vpn-dlya-windows-11)** | VLESS / Sing-box Desktop Core |
-| **macOS (Apple Silicon M1-M4 & Intel)** | 🍎 **[Download macOS Client](https://protocolz.ru/vpn-dlya-mac)** | Native Menubar Client |
-| **Smart TV / Android TV** | 📺 **[Setup Guide for TV](https://protocolz.ru/vpn-dlya-smart-tv)** | APK Sideload & Router Setup |
+| 📱 **Android (Официальный APK)** | 📲 **[Скачать ProtocolZ.apk](https://protocolz.ru/download/ProtocolZ.apk)** | Установка в 1 клик (Android 7.0+) |
+| 🍏 **iPhone / iPad (iOS)** | 🍏 **[Скачать из App Store (INCY)](https://protocolz.ru/vpn-dlya-iphone)** | Импорт ключа по 1 кнопке |
+| 💻 **Windows 10 / 11** | 💻 **[Скачать для Windows](https://protocolz.ru/vpn-dlya-windows-11)** | Нативное десктопное ядро |
+| 🍎 **macOS (M1-M4 и Intel)** | 🍎 **[Скачать для macOS](https://protocolz.ru/vpn-dlya-mac)** | Клиент в меню-баре |
+| 📺 **Smart TV / Android TV** | 📺 **[Инструкция для ТВ](https://protocolz.ru/vpn-dlya-smart-tv)** | Установка APK на ТВ |
 
 ---
 
-## 🎁 3 Days Free Trial / Бесплатный тест
+## 🎁 Бесплатный тест на 3 дня
 
-No credit card required. Get instant access in 5 seconds:
+Банковская карта не требуется. Доступ выдается автоматически за 5 секунд:
 
-1. Open Telegram Bot: **[@ProtocolZbot](https://t.me/ProtocolZbot?start=github_readme)**
-2. Click **Start / Старт** to receive your 3-day high-speed trial access key.
-3. Paste the key into the Protocol Z app and tap **Connect**.
-
----
-
-## 🛠️ Quick Android Installation Guide
-
-1. Download **[ProtocolZ.apk](https://protocolz.ru/download/ProtocolZ.apk)** directly to your device.
-2. Allow installation from unknown sources if prompted by Android.
-3. Open the application, tap **Import Configuration** (or copy from [@ProtocolZbot](https://t.me/ProtocolZbot)).
-4. Tap the central **Connect** button — you are now connected to high-speed uncensored internet!
+1. Откройте Telegram-бота: **[@ProtocolZbot](https://t.me/ProtocolZbot?start=github_readme)**
+2. Нажмите кнопку **«Старт»**, чтобы мгновенно получить персональный ключ на 3 дня полного доступа.
+3. Вставьте ключ в приложение и нажмите **«Подключить»**.
 
 ---
 
-## 🌐 Official Links
+## 🛠️ Как это работает (Архитектура)
 
-* 🌍 **Website:** [https://protocolz.ru](https://protocolz.ru)
-* 🤖 **Telegram Bot:** [@ProtocolZbot](https://t.me/ProtocolZbot)
-* 🆘 **Support:** [@ProtocolZ_Support](https://t.me/ProtocolZ_Support)
-* 📜 **Privacy Policy:** [https://protocolz.ru/privacy](https://protocolz.ru/privacy)
-* 📄 **Terms of Service:** [https://protocolz.ru/terms](https://protocolz.ru/terms)
+```
+[ Ваше устройство ] 
+       │
+       ▼ (Шифрование TLS 1.3 / Reality Camouflage)
+[ Магистральные фильтры ТСПУ ] ➔ Трафик воспринимается как легальный HTTPS
+       │
+       ▼ (Выделенный транзитный канал 10 Гбит/с)
+[ Серверы Protocol Z в Европе (DE, NL, FI, FR) ]
+       │
+       ├─► YouTube 4K / Instagram / Discord / AI ➔ Через защищенный туннель
+       └─► Сбербанк / Госуслуги / Кинопоиск ➔ Напрямую через Split Tunneling
+```
 
 ---
 
-## 🏷️ Keywords & Tags
+## 💬 Поддержка и сообщество
 
-`vless reality` `hysteria 2` `vpn android apk` `youtube 4k vpn` `discord vpn unblock` `brawl stars vpn` `roblox vpn` `sberbank split tunneling` `fast vpn russia` `vless client` `bypass tspu` `no logs vpn`
+* 🤖 **Telegram-бот:** [@ProtocolZbot](https://t.me/ProtocolZbot)
+* 👨‍💻 **Техподдержка 24/7:** [@ProtocolZ_Support](https://t.me/ProtocolZ_Support)
+* 🌐 **Официальный сайт:** [protocolz.ru](https://protocolz.ru)
+* 📄 **Политика конфиденциальности:** [protocolz.ru/privacy](https://protocolz.ru/privacy)
+
+---
+
+<p align="center">
+  <b>Protocol Z</b> — Свободный, быстрый и безопасный интернет без границ.
+</p>
