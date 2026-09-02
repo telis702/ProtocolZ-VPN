@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Версия-1.0.0-emerald?style=flat-square" />
+  <img src="https://img.shields.io/badge/Версия-1.5.8-emerald?style=flat-square" />
   <img src="https://img.shields.io/badge/Платформы-Android%20%7C%20iOS%20%7C%20Windows%20%7C%20macOS-cyan?style=flat-square" />
   <img src="https://img.shields.io/badge/Протоколы-VLESS%20Reality%20%7C%20Hysteria%202-purple?style=flat-square" />
   <img src="https://img.shields.io/badge/Скорость-до%2010%20Гбит%2Fс-orange?style=flat-square" />
